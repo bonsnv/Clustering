@@ -1,2 +1,2 @@
 # Clustering
-Tugas Clustering Mata Kuliah Machine Learninf
+Tugas Clustering Mata Kuliah Machine Learning
